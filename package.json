@@ -1,7 +1,7 @@
 {
   "name": "team",
   "version": "0.1.0",
-  "homepage": "https://sang6909.github.io/Team",
+  "homepage": "https://sang6909.github.io/team",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
